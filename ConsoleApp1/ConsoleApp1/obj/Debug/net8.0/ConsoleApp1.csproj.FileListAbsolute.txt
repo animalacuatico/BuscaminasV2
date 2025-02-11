@@ -12,3 +12,4 @@ D:\Angelo\Programación\BuscaminasV2\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\re
 D:\Angelo\Programación\BuscaminasV2\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.pdb
 D:\Angelo\Programación\BuscaminasV2\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.genruntimeconfig.cache
 D:\Angelo\Programación\BuscaminasV2\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\ref\ConsoleApp1.dll
+D:\Angelo\Programación\BuscaminasV2\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.sourcelink.json

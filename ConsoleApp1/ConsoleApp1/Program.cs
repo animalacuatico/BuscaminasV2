@@ -61,7 +61,6 @@
                 case ConsoleKey.S: updatePlayerY--; break;
                 case ConsoleKey.D: updatePlayerY++; break;
             }
-
         }
     }
 }
